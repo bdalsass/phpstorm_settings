@@ -3,7 +3,6 @@
     <option name="customScope" value="step changing desc" />
     <option name="defaultScopeName" value="step changing desc" />
     <option name="SEARCH_SCOPE" value="step changing desc" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.php4</mask>
