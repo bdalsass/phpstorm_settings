@@ -1,5 +1,6 @@
 <application>
   <component name="UISettings">
+    <option name="DIFFERENTIATE_PROJECTS" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="802" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
     <option name="SHOW_BREAKPOINTS_OVER_LINE_NUMBERS" value="false" />
