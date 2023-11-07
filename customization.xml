@@ -154,7 +154,6 @@
       <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="SwitchIdeScaleAction" icon="Git.Log.Branches.Grouping.Settings" />
     <action id="Git.Clone" icon="jar:file:/C:/Program%20Files/JetBrains/PhpStorm%202021.3/lib/app-client.jar!/expui/toolbar/unknown.svg" />
   </component>
 </application>
