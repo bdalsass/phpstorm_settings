@@ -154,6 +154,7 @@
       <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="Git.Clone" icon="jar:file:/C:/Program%20Files/JetBrains/PhpStorm%202021.3/lib/app-client.jar!/expui/toolbar/unknown.svg" />
+    <action id="SwitchIdeScaleAction" icon="jar:file:/C:/Program%20Files/JetBrains/PhpStorm%202021.3/lib/app-client.jar!/expui/general/search.svg" />
+    <action id="Git.Clone" icon="Github.PullRequest.Open.Link" />
   </component>
 </application>
