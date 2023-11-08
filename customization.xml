@@ -142,18 +142,6 @@
       <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Merge" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Center" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Git.Clone" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Center" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <action id="SwitchIdeScaleAction" icon="jar:file:/C:/Program%20Files/JetBrains/PhpStorm%202021.3/lib/app-client.jar!/expui/general/search.svg" />
     <action id="Git.Clone" icon="Github.PullRequest.Open.Link" />
   </component>
