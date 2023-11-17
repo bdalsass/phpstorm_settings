@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '…\datamodels\2.x\itop-portal-base\portal\src\Controller [develop]'" />
+    <option name="defaultScopeName" value="Directory '…\datamodels\2.x\itop-portal-base\portal\src\Controller [develop]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '…\datamodels\2.x\itop-portal-base\portal\src\Controller [develop]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.php4</mask>
