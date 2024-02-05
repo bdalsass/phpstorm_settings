@@ -19,5 +19,6 @@
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.xml</mask>
+    <mask>en.*</mask>
   </component>
 </application>
