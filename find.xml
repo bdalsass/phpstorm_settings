@@ -17,8 +17,8 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
-    <mask>*.xml</mask>
     <mask>*.twig</mask>
     <mask>en.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
