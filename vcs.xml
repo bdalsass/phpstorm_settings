@@ -8,6 +8,7 @@
         <option value="Default.Date" />
         <option value="Default.Hash" />
         <option value="Space.CommitStatus" />
+        <option value="GitHub.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
@@ -21,6 +22,5 @@
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
     <option name="CREATE_CHANGELISTS_AUTOMATICALLY" value="true" />
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
