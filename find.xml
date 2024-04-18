@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ckeditor detect changes" />
-    <option name="defaultScopeName" value="ckeditor detect changes" />
-    <option name="SEARCH_SCOPE" value="ckeditor detect changes" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.php4</mask>
