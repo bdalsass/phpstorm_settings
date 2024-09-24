@@ -27,6 +27,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt numpad5" />
   </action>
   <action id="GotoRelated" />
+  <action id="OpenInlineChatAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
