@@ -2,6 +2,7 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="InjectablePHP" injector-id="xml">
       <display-name>code</display-name>
+      <single-file value="true" />
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("code"))]]></place>
     </injection>
   </component>
