@@ -4,6 +4,8 @@
       <mapping pattern="yU5p03YtuMa4hDq7Lggg" type="AUTO_DETECTED" />
       <mapping pattern="php81_xdebug" type="AUTO_DETECTED" />
       <mapping pattern="console" type="AUTO_DETECTED" />
+      <mapping pattern="php83" type="AUTO_DETECTED" />
+      <mapping pattern="php" type="AUTO_DETECTED" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".local.env" type="PLAIN_TEXT" />
