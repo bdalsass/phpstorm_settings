@@ -2,6 +2,8 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="localhost" id="3d50cbad-e4eb-4db8-bd90-797c0833865e" keyPath="C:\Users\Benjamin\.ssh\id_dock" port="2222" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="localhost" id="e19030e8-b744-4554-b8c6-58f07e1487f6" keyPath="C:\Users\Benjamin\.ssh\id_dock" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="localhost" id="f5ac9e73-350c-4c4f-b63e-9a9dac6250e6" port="22" nameFormat="DESCRIPTIVE" username="benji" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
